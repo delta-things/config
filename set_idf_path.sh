@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Please select ESP platform ";
-echo "1.ESP322";
+echo "1.ESP32";
 echo "2.ESP8266";
 echo -n "Enter your choice (1 or 2 ?) : "; 
 
