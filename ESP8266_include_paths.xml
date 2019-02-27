@@ -11,7 +11,6 @@
 <includepath>${IDF_PATH}/components/esp_http_client/include</includepath>
 <includepath>${IDF_PATH}/components/esp_http_server/include</includepath>
 <includepath>${IDF_PATH}/components/espos/include</includepath>
-<includepath>${IDF_PATH}/components/esp-tls/include</includepath>
 <includepath>${IDF_PATH}/components/freertos/include</includepath>
 <includepath>${IDF_PATH}/components/heap/include</includepath>
 <includepath>${IDF_PATH}/components/http_parser/include</includepath>
@@ -20,7 +19,6 @@
 <includepath>${IDF_PATH}/components/lwip/include</includepath>
 <includepath>${IDF_PATH}/components/mdns/include</includepath>
 <includepath>${IDF_PATH}/components/mqtt/paho/MQTTClient-C/src/FreeRTOS</includepath>
-<includepath>${IDF_PATH}/components/mqtt/paho/MQTTClient-C/src$</includepath>
 <includepath>${IDF_PATH}/components/mqtt/paho/MQTTPacket/src</includepath>
 <includepath>${IDF_PATH}/components/newlib/newlib/include</includepath>
 <includepath>${IDF_PATH}/components/nvs_flash/include</includepath>
@@ -33,7 +31,9 @@
 <includepath>${IDF_PATH}/components/util/include</includepath>
 <includepath>${IDF_PATH}/components/vfs/include</includepath>
 <includepath>${IDF_PATH}/components/wpa_supplicant/include</includepath>
-
+<includepath>${IDF_PATH}/components/mqtt/paho/MQTTClient-C/src</includepath>
+<includepath>${IDF_PATH}/components/esp-tls</includepath>
+<includepath>${IDF_PATH}/components/freertos/port/esp8266/include/freertos</includepath>
 
 </language>
 <language name="C++ Source File">
