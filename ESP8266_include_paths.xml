@@ -2,7 +2,38 @@
 <cdtprojectproperties>
 <section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
 <language name="C Source File">
+<includepath workspace_path="true">/${ProjName}/build/include</includepath>
 <includepath>${IDF_PATH}/components/app_update/include</includepath>
+<includepath>${IDF_PATH}/components/aws_iot/include</includepath>
+<includepath>${IDF_PATH}/components/bootloader_support/include</includepath>
+<includepath>${IDF_PATH}/components/coap/libcoap/include/coap</includepath>
+<includepath>${IDF_PATH}/components/esp8266/include</includepath>
+<includepath>${IDF_PATH}/components/esp_http_client/include</includepath>
+<includepath>${IDF_PATH}/components/esp_http_server/include</includepath>
+<includepath>${IDF_PATH}/components/espos/include</includepath>
+<includepath>${IDF_PATH}/components/esp-tls/include</includepath>
+<includepath>${IDF_PATH}/components/freertos/include</includepath>
+<includepath>${IDF_PATH}/components/heap/include</includepath>
+<includepath>${IDF_PATH}/components/http_parser/include</includepath>
+<includepath>${IDF_PATH}/components/jsmn/include</includepath>
+<includepath>${IDF_PATH}/components/log/include</includepath>
+<includepath>${IDF_PATH}/components/lwip/include</includepath>
+<includepath>${IDF_PATH}/components/mdns/include</includepath>
+<includepath>${IDF_PATH}/components/mqtt/paho/MQTTClient-C/src/FreeRTOS</includepath>
+<includepath>${IDF_PATH}/components/mqtt/paho/MQTTClient-C/src$</includepath>
+<includepath>${IDF_PATH}/components/mqtt/paho/MQTTPacket/src</includepath>
+<includepath>${IDF_PATH}/components/newlib/newlib/include</includepath>
+<includepath>${IDF_PATH}/components/nvs_flash/include</includepath>
+<includepath>${IDF_PATH}/components/pthread/include</includepath>
+<includepath>${IDF_PATH}/components/smartconfig_ack/include</includepath>
+<includepath>${IDF_PATH}/components/spiffs/include</includepath>
+<includepath>${IDF_PATH}/components/spi_flash/include</includepath>
+<includepath>${IDF_PATH}/components/tcpip_adapter/include</includepath>
+<includepath>${IDF_PATH}/components/tcp_transport/include</includepath>
+<includepath>${IDF_PATH}/components/util/include</includepath>
+<includepath>${IDF_PATH}/components/vfs/include</includepath>
+<includepath>${IDF_PATH}/components/wpa_supplicant/include</includepath>
+
 
 </language>
 <language name="C++ Source File">
