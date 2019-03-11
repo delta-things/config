@@ -6,10 +6,10 @@
 Enter "1" to select ESP32 platform and "2" for ESP8266
 
 # If IDF_PATH is set correctly you will get following message
-  ```Exporting IDF_PATH for ESP32
-  IDF_PATH = /home/<username>/esp/esp-idf```
+  ```Exporting IDF_PATH for ESP32```
+  ```IDF_PATH = /home/<username>/esp/esp-idf```
   
 # If you have entered wrong selection
-  ```Error : Not a valid platform
-  Warning : IDF_PATH is not set..!
-  Please select valid platform```
+  ```Error : Not a valid platform```
+  ```Warning : IDF_PATH is not set..!```
+  ```Please select valid platform```
