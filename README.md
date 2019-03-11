@@ -2,11 +2,13 @@
 
 # 1. Clone the configuration files to your ```~/esp``` folder
 ```$ cd ~/esp```
+
 ```$ git clone https://github.com/delta-things/config.git```
+
 ESP-IDF will be downloaded into ```~/esp/esp-idf```
 
 
-## 2.To set IDF_PATH environment variable for ESP32 or ESP8266 use following steps:
+# 2.To set IDF_PATH environment variable for ESP32 or ESP8266 use following steps:
 ```$ source set_idf_path.sh```
 
 ## Select the ESP platform by enterning appropriate number
