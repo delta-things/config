@@ -1,6 +1,6 @@
 # config
 ## 1.To set IDF_PATH environment variable for ESP32 or ESP8266 use following steps:
-'''$ source set_idf_path.sh'''
+,,,$ source set_idf_path.sh,,,
 
 Select the ESP platform by enterning apropriet number
 Enter "1" to select ESP32 platform and "2" for ESP8266
