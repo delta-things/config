@@ -34,6 +34,7 @@
 <includepath>${IDF_PATH}/components/mqtt/paho/MQTTClient-C/src</includepath>
 <includepath>${IDF_PATH}/components/esp-tls</includepath>
 <includepath>${IDF_PATH}/components/freertos/port/esp8266/include/freertos</includepath>
+<includepath>${IDF_PATH}/components/lwip/lwip/src/include</includepath>
 
 </language>
 <language name="C++ Source File">
