@@ -19,7 +19,7 @@ config will be downloaded into ```~/esp/config```
 
 ```Enter your choice (1 or 2 ?) :```
 
-## Select the ESP platform by enterning appropriate number
+## Select the ESP platform by enterning appropriate choice
 
 Enter "1" to select ESP32 platform and "2" for ESP8266
 
